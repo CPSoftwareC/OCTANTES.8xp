@@ -27,7 +27,7 @@
      <li>E por ultimo pressionar <kbd>enter</kbd></li>
 </ol>
 
-<h2>Programador: J.C.P.</h2>
+<h2>Programador: <strong><em>J.C.P.</strong></em></h2>
 
 <h4><a href="https://cpsoftwarecompany.epizy.com">Website da CP Software Company</a></h4>
 
