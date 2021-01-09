@@ -1,5 +1,5 @@
-<!-- README.md Versão 1.1 -->
-<h2>Prgm OCTANTES</h2>
+<!-- README.md Versão 1.2 -->
+<h1>Prgm OCTANTES</h1>
 
 <h3>Biografia</h3>
 
