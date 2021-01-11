@@ -1,11 +1,11 @@
-<!-- README.md Versão 1.2 -->
+<!-- README.md Versão 1.3 -->
 <h1>Prgm OCTANTES</h1>
 
 <h3>Biografia</h3>
 
-<p>Desenvolvido em TI-BASIC. Uso para auxiliar o estudo da Geometria analítica no espaço <strong>(Referencial <em>Oxyz</em>)</strong>. Indica em que octante ou eixo ou plano está um determinado ponto dado pelo usúario.</p>
+<p>Desenvolvido em TI-BASIC. Uso para auxiliar o estudo da Geometria analítica no espaço <strong>(Referencial <em>Oxyz</em>)</strong>. Indica em que octante ou eixo ou plano está um determinado ponto dado pelo usuário.</p>
 
-<h2>Versão <em><strong>2.1</strong></em></h2>
+<h2>Versão <em>2.1</em></h2>
 
 <h3>Compatibilidade</h3>
 
@@ -41,6 +41,6 @@
      <li>E por ultimo pressionar <kbd>enter</kbd></li>
 </ol>
 
-<h2>Programador: <strong><em>J.C.P.</em></strong></h2>
+<h2>Programador: <em>J.C.P.</em></h2>
 
 <h4><a href="https://cpsoftwarecompany.epizy.com">Website da CP Software Company</a></h4>
