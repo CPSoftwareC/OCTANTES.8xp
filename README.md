@@ -43,4 +43,4 @@
 
 <h2>Programador: <em>J.C.P.</em></h2>
 
-<h4><a href="https://cpsoftwarecompany.epizy.com">Website da CP Software Company</a></h4>
+<h4><a href="http://cpsoftwarecompany.epizy.com">Website da CP Software Company</a></h4>
