@@ -1,5 +1,7 @@
-<!-- README.md Versão 1.3 -->
+<!-- README.md Versão 1.4 -->
 <h1>Prgm OCTANTES</h1>
+
+![GitHub all releases](https://img.shields.io/github/downloads/CPSoftwareC/OCTANTES.8xp/total?style=plastic)
 
 <h3>Biografia</h3>
 
